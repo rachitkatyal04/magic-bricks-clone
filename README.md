@@ -44,7 +44,7 @@ To run this project on your local machine:
 git clone https://github.com/rachitkatyal04/magicbricks-clone.git
 
 # 2. Navigate to the project directory
-cd magicbricks-clone
+cd magic-bricks-clone
 
 # 3. Install dependencies
 npm install
