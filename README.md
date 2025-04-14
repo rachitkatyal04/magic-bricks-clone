@@ -2,8 +2,8 @@
 
 A full-featured real estate property listing web application built with **Next.js** and **Supabase**. It allows users to browse, filter, and explore properties, with a dedicated admin dashboard for property management.
 
-MagicBricks Clone Preview:  
-![MagicBricks Preview](magic-bricks-clone.vercel.app) <!-- Replace this with your actual image URL -->
+## 🔗 Live Demo
+Check out the live app here: [magic-bricks-clone.vercel.app](https://magic-bricks-clone.vercel.app)
 
 ---
 
@@ -51,10 +51,10 @@ npm install
 
 # 4. Set up environment variables
 cp .env.example .env.local
+
 # Fill in your Supabase project URL and anon/public key
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-
 
 # 5. Run the development server
 npm run dev
