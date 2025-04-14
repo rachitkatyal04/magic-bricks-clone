@@ -3,7 +3,7 @@
 A full-featured real estate property listing web application built with **Next.js** and **Supabase**. It allows users to browse, filter, and explore properties, with a dedicated admin dashboard for property management.
 
 MagicBricks Clone Preview:  
-![MagicBricks Preview](https://github.com/your-username/magicbricks-clone/assets/demo-preview.png) <!-- Replace this with your actual image URL -->
+![MagicBricks Preview](magic-bricks-clone.vercel.app) <!-- Replace this with your actual image URL -->
 
 ---
 
@@ -41,7 +41,7 @@ To run this project on your local machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/magicbricks-clone.git
+git clone https://github.com/rachitkatyal04/magicbricks-clone.git
 
 # 2. Navigate to the project directory
 cd magicbricks-clone
